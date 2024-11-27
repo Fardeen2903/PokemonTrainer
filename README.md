@@ -1,8 +1,6 @@
 # PokemonTrainer
 
 
-```markdown
-
 A simple Python application that allows users to input Pokémon power values and calculates the minimum and maximum power in the list. The application features a fun, Pokémon-themed graphical user interface (GUI) using Tkinter and PIL (Python Imaging Library).
 
 ## Features
